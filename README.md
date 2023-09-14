@@ -15,7 +15,7 @@ This is a simple chocolate shopping cart website that allows users to browse cho
 
 ## Demo
 
-You can view a live demo of the Chocolate Cart Website [here](#). (Provide a link to your live website if available)
+You can view a live demo of the Chocolate Cart Website [here](https://glowing-llama-78bae2.netlify.app/). (Provide a link to your live website if available)
 
 ## Features
 
